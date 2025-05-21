@@ -12,5 +12,5 @@ chmod u+x 파일명
 chmod u-x 파일명
 chmod u=r 파일명
 
-# 소유자: 그룹 변경
+# 소유자:그룹 변경
 chown newuser1:newuser1 파일명
